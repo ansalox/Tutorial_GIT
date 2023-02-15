@@ -1,4 +1,25 @@
-# Tutorial_GIT
+# Crear repositorio y subir proyecto
 
+git init
 
-![image](https://user-images.githubusercontent.com/54609399/167268708-f56ebb66-d3da-4b3b-bf55-b6b2950d922b.png)
+git remote add origin "URL repo"
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Fist Commit"
+
+git push
+
+# Update project to github
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Fist Commit"
