@@ -1,4 +1,4 @@
-# 🚀 Subir un proyecto a GitHub por primera vez
+# Subir un proyecto a GitHub por primera vez
 
 Una vez configurado Git (`user.name` y `user.email`), el siguiente paso es conectar nuestro proyecto local con un repositorio en GitHub.
 
@@ -115,7 +115,7 @@ git push
 
 ---
 
-# 🌿 Trabajar con una rama diferente de `main`
+#  Trabajar con una rama diferente de `main`
 
 Una buena práctica es no desarrollar directamente sobre la rama principal.
 
@@ -193,7 +193,7 @@ git push
 
 ---
 
-# 🔄 Subir cambios al día siguiente
+#  Subir cambios al día siguiente
 
 Supongamos que ayer ya subiste el proyecto y hoy realizaste nuevas modificaciones.
 
@@ -257,7 +257,7 @@ git push
 
 ---
 
-# ↩️ Revertir cambios
+#  Revertir cambios
 
 Git permite deshacer cambios dependiendo del momento en el que te encuentres.
 
@@ -305,7 +305,7 @@ Después deberás realizar un nuevo commit.
 
 ---
 
-# 📥 Obtener cambios del repositorio remoto
+#  Obtener cambios del repositorio remoto
 
 ## Descargar cambios sin modificar tu rama
 
@@ -335,7 +335,7 @@ git merge
 
 ---
 
-# 🌿 Administración de ramas
+#  Administración de ramas
 
 ## Ver todas las ramas locales
 
@@ -399,7 +399,7 @@ git rebase --abort
 
 ---
 
-# 🌐 Administración de repositorios remotos
+#  Administración de repositorios remotos
 
 ## Ver los repositorios configurados
 
@@ -464,7 +464,7 @@ Ejemplo:
 
 ---
 
-# 🏷️ Tags (Versiones)
+#  Tags (Versiones)
 
 Los tags permiten marcar versiones importantes del proyecto.
 
@@ -502,7 +502,7 @@ git push --tags
 
 ---
 
-# 📚 Flujo de trabajo recomendado
+#  Flujo de trabajo recomendado
 
 ## Primera vez
 
